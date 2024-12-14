@@ -1,5 +1,5 @@
 
-export let student = {
+/*export let student = {
     fullName:"Jenny",
     email:"jenny@gamil.com",
     qualification:"Be CSC",
@@ -13,4 +13,6 @@ export let student = {
       programming:89,
       socialScience:78
  }
-    }
+    }/*
+
+
